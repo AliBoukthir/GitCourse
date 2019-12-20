@@ -1,2 +1,4 @@
 # GitCourse
 Git course
+
+## Notes
